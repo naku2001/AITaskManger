@@ -13,23 +13,23 @@ Features
 
 Setup
 
-1. **Create Google API credentials**
+1. Create Google API credentials
 
    - Go to [Google Cloud Console](https://console.cloud.google.com/apis/credentials)
    - Create a project and enable Google Calendar API
    - Create OAuth 2.0 credentials (Desktop app)
    - Download `credentials.json` and place it in the project folder
 
-2. **Install dependencies**
+2. Install dependencies
 
    ```bash
    pip install langchain-google-community langchain google-auth-oauthlib
 ````
 
-3. **Run the app**
+3. Run the app
 
    ```bash
-   python CALENDAR.py
+   python taskmanager.py
    ```
 
    On first run, a browser window will open for Google authentication.
