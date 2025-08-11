@@ -1,4 +1,3 @@
-Certainly! Here’s the complete, clean, nicely formatted Markdown README combining all parts together for your AI Google Calendar Agent project:
 
 ````markdown
 # AI Google Calendar Agent
@@ -53,9 +52,7 @@ The agent will interact with your Google Calendar accordingly.
 * Make sure to keep your `credentials.json` secure.
 * Tokens will be saved locally for reuse.
 
-## License
 
-MIT
 
 ```
 
