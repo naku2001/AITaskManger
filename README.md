@@ -1,17 +1,17 @@
 
 ````markdown
-# AI Google Calendar Agent
+AI Google Calendar Agent
 
 A simple AI-powered assistant that lets you manage your Google Calendar using natural language commands.
 
-## Features
+Features
 
 - Create, update, move, delete calendar events
 - List upcoming events
 - Authenticate securely with Google using OAuth2
 - Understands plain English instructions via AI
 
-## Setup
+Setup
 
 1. **Create Google API credentials**
 
@@ -34,7 +34,7 @@ A simple AI-powered assistant that lets you manage your Google Calendar using na
 
    On first run, a browser window will open for Google authentication.
 
-## Usage
+Usage
 
 Type natural language commands like:
 
@@ -46,7 +46,7 @@ Show me my events for next week.
 
 The agent will interact with your Google Calendar accordingly.
 
-## Notes
+Notes
 
 * This is a learning project to demonstrate AI + Google API integration.
 * Make sure to keep your `credentials.json` secure.
